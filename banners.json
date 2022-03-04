@@ -1,3 +1,4 @@
+[
     {
       "bannerImageUrl": "./static/images/offers/offer1.jpg",
       "bannerImageAlt": "Independence Day Deal - 25% off on shampoo",
@@ -33,3 +34,4 @@
       "order": 5,
       "id": "5b6c386b6cb7d770b7010cd0"
     }
+]
