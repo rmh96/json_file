@@ -1,4 +1,5 @@
-    {
+[
+      {
       "name": "Fruits & Vegetables",
       "buttonText": "fruit-and-veg",
       "description": "A variety of fresh fruits and vegetables.",
@@ -43,3 +44,4 @@
       "imageUrl": "./static/images/category/baby.png",
       "id": "5b6899683d1a866534f516e0"
     }
+]
